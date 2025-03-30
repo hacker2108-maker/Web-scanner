@@ -1,0 +1,8 @@
+pkg update
+pkg upgrade
+pkg install python
+pkg install python-pip
+pip install requests dnspython python-whois beautifulsoup4 colorama
+pip install python-whois
+pkg install git
+git clone
