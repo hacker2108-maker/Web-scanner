@@ -1,0 +1,6 @@
+dnspython>=2.2.1
+requests>=2.27.1
+python-whois>=0.7.3
+beautifulsoup4>=4.11.1
+colorama>=0.4.4
+concurrent-futures>=3.0.5
